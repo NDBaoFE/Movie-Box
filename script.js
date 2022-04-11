@@ -327,6 +327,7 @@ for (var i = 0; i < arr.length; i++) {
                 
             }
             getMovies(newUrl);
+          hamNav.classList.remove('width-full');
         }
 
 function handleGenre(){
