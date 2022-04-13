@@ -9,6 +9,9 @@ what you can do with this website:
   
   
   +Viewing film by genres 
+  
   +Change languages 
+  
   +see Votes
-  +Changing page
+  
+  +Scrolling page without changing the language and the genre
